@@ -1,2 +1,2 @@
 # hello-world
-Larnin' how to git.
+Learnin' how to git.
